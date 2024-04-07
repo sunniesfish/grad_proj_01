@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import "reset.css";
+@import "variables.css";
+
+/*Components*/
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/cover.css";
+
+/* @import "components/user-component.css";
+@import "components/badge.css";
+@import "components/icon-row.css";
+@import "components/alt-screen-header.css";
+@import "components/no-mobile.css"; */
+
+/*Screens*/
+@import "screens/messages.css";
+@import "screens/photos.css";
+@import "screens/calls.css";
+@import "screens/main.css";
+@import "screens/settings.css";
+
+/* @import "screens/login.css";
+@import "screens/chat.css";
+@import "screens/chat-room.css"; */
+
+html {
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    padding: 26px 0 0 0;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,78 @@
+#main-body {
+    background-image: url("https://image.fmkorea.com/files/attach/new3/20230707/494354581/4231053713/5942646792/4577e575a950a0b34a32f6a99ecac4f9.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: -10;
+}
+
+#main-logo {
+    background-image: url("https://shop.newjeans-official.us/cdn/shop/files/NJ_D2C_Design_Draft-04_7f73aa18-a7e3-4610-ae0f-874a49aa0d35.png?v=1686686921");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 120px;
+    top: 580px;
+}
+#main-menu {
+    position: absolute;
+    bottom: 50px;
+    height: 210px;
+    width: 100%;
+}
+.main-menu__line {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-menu__line a {
+    margin: 0 12px 0 12px;
+    display: inline-flex;
+    width: 70px;
+    height: 80%;
+}
+#menu-calls {
+    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/calls.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#menu-msg {
+    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/msg.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#menu-photos {
+    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/photo.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#menu-calendar {
+    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/cal.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#menu-settings {
+    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/settings.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#menu-link {
+    background-image: url("https://i.pinimg.com/originals/a1/8d/b2/a18db2f4a7b821c9bf6fef2ba2ada93a.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}

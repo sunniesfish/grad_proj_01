@@ -1,0 +1,75 @@
+#msg-body {
+    position: relative;
+    background: linear-gradient(
+        to bottom, 
+        var(--yellow) 10%, 
+        white 60%);
+    background-attachment: fixed;
+}
+#msg {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 16px 0 16px;
+}
+.msg-box {
+    width: 100%;
+    margin-top: 80px;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+.nametag {
+    width: 100%;
+    justify-content: flex-start;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 15px 0 15px 0;
+}
+
+.msg-container {
+    width: 100%;
+}
+.msg-list__item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+}
+.msg-list__item-cover {
+    height: 52px;
+    width: 52px;
+    border: 1px solid black;
+    border-radius: 26px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.msg-list_img {
+    border: 1px solid black;
+    height: 44px;
+    width: 44px;
+    border-radius: 22px;
+}
+.msg-list__item-info {
+    width: 100%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 17px;
+}
+.msg-list__item-info__name{
+    font-weight: 600;
+}
+.msg-list__item-info__comment {
+    word-wrap: break-word;
+    font-size: 17px;
+}
+.msg-list__item-time {
+    color: gray;
+    font-size: 15px;
+}

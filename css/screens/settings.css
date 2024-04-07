@@ -1,0 +1,56 @@
+#settings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 16px 0 16px;
+}
+.settings-box {
+    width: 100%;
+    margin-top: 80px;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+.settings-profile {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.settings-profile__name {
+    font-size: 21px;
+    font-weight: 600;
+    margin: 10px 0 10px;
+}
+.settings-profile__edit {
+    color: rgb(28, 116, 248);
+}
+
+.settings-category {
+    width: 100%;
+    margin-bottom: 60px;
+}
+.settings-category > div {
+    font-size: 19px;
+    font-weight: 600;
+}
+.settings-category__title {
+    margin-bottom: 15px;
+    color: gray;
+}
+.settings-category__options {
+    margin: 0 0 25px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.settings-category__options-detail span:first-child {
+    color: gray;
+}
+.settings-logout {
+    font-size: 19px;
+    font-weight: 600;
+    color: darkred;
+    margin-bottom: 30px;
+}
