@@ -1,82 +1,97 @@
 .c_minji {
-    background-image: url("");
+    background-image: url("https://pbs.twimg.com/media/F_ABhN3boAATdY9?format=jpg&name=4096x4096");
     background-size: cover;
     background-position: center;
 }
 .c_hanni {
-    background-image: url("");
+    background-image: url("https://mblogthumb-phinf.pstatic.net/MjAyNDAyMDFfNTYg/MDAxNzA2NzcwMzQwODMx.7M3OJDQX0rmGoX5kbr_BpZ_ZbyAQ3n7s1ds8fFakOZ4g.aY_-mevXEVwdFzo7vv4-0-hOdnq2HUzZ-peTR-UlkFUg.JPEG.gwmfruckwrl/240129-NewJeans-Hanni-Phoning-1.jpeg?type=w800&jopt=2");
     background-size: cover;
     background-position: center;
 }
 .c_dani {
-    background-image: url("");
+    background-image: url("https://pbs.twimg.com/media/GIEgxcwWoAA4lrW.jpg:large");
     background-size: cover;
     background-position: center;
 }
 .c_haerin {
-    background-image: url("");
+    background-image: url("https://kpopping.com/documents/a5/4/230904-NewJeans-Haerin-Phoning-Update-documents-1.jpeg?v=95233");
     background-size: cover;
     background-position: center;
 }
 .c_hyein {
-    background-image: url("");
+    background-image: url("https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/418190041_222458204263409_9058033928617302818_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UsF8P7h42MsAb4VZNwd&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAOaBKWgstDnhWxcYt7-zeSgfyqZ7sqCnw_IpPPPvER7w&oe=661870F7");
+    background-size: cover;
+    background-position: center;
+}
+.c_ador {
+    background-image: url("https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_400x400.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.c_phoning {
+    background-image: url("https://play-lh.googleusercontent.com/fuxcgolZHYW-6aeQsBup_OsWhAKs7kM6Su1nDTCP6h5fGIzhTPe2s47J8BLQac1jsAs");
+    background-size: cover;
+    background-position: center;
+}
+.c_newjeans {
+    background-image: url("https://preview.redd.it/230918-newjeans-phoning-photo-update-v0-auea5ok680pb1.jpg?width=640&crop=smart&auto=webp&s=5b7d55817f416d995ea9f50d647614f2093cc456");
     background-size: cover;
     background-position: center;
 }
 
 
-.p_minji {
-    background-image: url("");
+#p_minji {
+    background-image: url("https://pbs.twimg.com/media/GKfHHmSXAAEsNzA?format=jpg&name=large");
     background-size: cover;
     background-position: center;
 }
-.p_hanni {
-    background-image: url("");
+#p_hanni {
+    background-image: url("https://pbs.twimg.com/profile_images/1774050327198572544/3LTfDHHC_400x400.jpg");
     background-size: cover;
     background-position: center;
 }
-.p_dani {
-    background-image: url("");
+#p_dani {
+    background-image: url("https://preview.redd.it/240402-danielle-phoning-chat-photo-update-v0-5y6hgtnie2sc1.jpg?width=1080&crop=smart&auto=webp&s=e3d3bf2348d0d45df2260b9b6216018c9945af7c");
     background-size: cover;
     background-position: center;
 }
-.p_haerin {
-    background-image: url("");
+#p_haerin {
+    background-image: url("https://preview.redd.it/240329-haerin-twitter-update-v0-2p67es4wi8rc1.jpg?width=1536&format=pjpg&auto=webp&s=c78612d5a107c8ecdf9d099b6e8ebc16e101a80c");
     background-size: cover;
     background-position: center;
 }
-.p_hyein {
-    background-image: url("");
+#p_hyein {
+    background-image: url("https://preview.redd.it/240406-hyein-phoning-photo-update-v0-16lvmtwxevsc1.jpg?width=1080&crop=smart&auto=webp&s=18075b91681eb3cb0af68dccdf1cddb7effa5c51");
     background-size: cover;
     background-position: center;
 }
-.p_nj {
-    background-image: url("");
+#p_nj {
+    background-image: url("https://image.blip.kr/v1/file/9f60c36978b22aa2f3f2f89f6ae7b8ae");
     background-size: cover;
     background-position: center;
 }
-.p_vid {
-    background-image: url("");
+#p_vid {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GRRDfLMI8885NDfSwGg92nJJYV3cDH2zh7s6o2yfkA&s");
     background-size: cover;
     background-position: center;
 }
-.p_pen {
-    background-image: url("");
+#p_pen {
+    background-image: url("https://i.pinimg.com/736x/f8/2e/f5/f82ef56d0d206ec58bdc1dd4437865d9.jpg");
     background-size: cover;
     background-position: center;
 }
-.p_cam {
-    background-image: url("");
+#p_cam {
+    background-image: url("https://i1.sndcdn.com/artworks-3UfJGWjzbQOJjsF2-Sy1kKw-t500x500.jpg");
     background-size: cover;
     background-position: center;
 }
-.p_moon {
-    background-image: url("");
+#p_moon {
+    background-image: url("https://resources.chimhaha.net/article/1696242034896-edv5onww67.jpg");
     background-size: cover;
     background-position: center;
 }
-.p_njd {
-    background-image: url("");
+#p_njd {
+    background-image: url("https://i.pinimg.com/736x/2c/1b/4f/2c1b4f171dcdbe170a493f2b5dfa0ffa.jpg");
     background-size: cover;
     background-position: center;
 }

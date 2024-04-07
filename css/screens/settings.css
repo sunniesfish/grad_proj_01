@@ -1,8 +1,22 @@
+#settings-body {
+    position: relative;
+    background: linear-gradient(
+        to bottom, 
+        var(--blue) 10%, 
+        white 60%);
+    background-attachment: fixed;
+}
 #settings {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0 16px 0 16px;
+}
+#settings-space {
+    background-color: var(--blue);
+}
+#settings-nav {
+    background-color: var(--blue);
 }
 .settings-box {
     width: 100%;
