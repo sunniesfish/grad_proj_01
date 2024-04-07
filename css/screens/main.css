@@ -28,6 +28,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    z-index: 3;
 }
 .main-menu__line__item{
     margin: 0 12px 0 12px;
