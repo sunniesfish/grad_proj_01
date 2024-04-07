@@ -39,34 +39,34 @@
     animation: shake 0.2s linear infinite;
 }
 #menu-calls {
-    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/calls.png");
+    background-image: url("../../imgs/calls.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 #menu-msg {
-    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/msg.png");
+    background-image: url("../../imgs/msg.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     
 }
 #menu-photos {
-    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/photo.png");
+    background-image: url("../../imgs/photo.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     
 }
 #menu-calendar {
-    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/cal.png");
+    background-image: url("../../imgs/cal.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     
 }
 #menu-settings {
-    background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/settings.png");
+    background-image: url("../../imgs/settings.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
