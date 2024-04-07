@@ -29,11 +29,14 @@
     justify-content: center;
     align-items: center;
 }
-.main-menu__line a {
+.main-menu__line__item{
     margin: 0 12px 0 12px;
     display: inline-flex;
     width: 70px;
     height: 80%;
+}
+.main-menu__line__item:hover {
+    animation: shake 0.2s linear infinite;
 }
 #menu-calls {
     background-image: url("C:/Users/fish/Desktop/GitHub/grad_proj_01/imgs/calls.png");

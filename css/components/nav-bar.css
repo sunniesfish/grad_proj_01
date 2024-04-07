@@ -3,7 +3,7 @@
     height: 40px;
     position: fixed;
     top: 0px;
-    z-index: 9;
+    z-index: 1;
 }
 .nav-bar {
     margin: 10px 0 10px 0;

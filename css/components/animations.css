@@ -1,0 +1,38 @@
+@keyframes growShrink {
+    0% {
+        opacity: 1;
+        transform: scale(1); 
+    }
+    15% {
+        transform: scale(1.1); 
+    }
+    30% {
+        opacity: 1;
+        transform: scale(1); 
+    }
+    45% {
+        opacity: 1;
+        transform: scale(1.2); 
+    }
+    60% {
+        opacity: 1;
+        transform: scale(1); 
+    }
+    100% {
+        opacity: 0;
+        visibility: hidden;
+        transform: scale(1); 
+    }
+}
+
+@keyframes shake {
+    0% {
+        transform: rotate(0deg);
+	}
+	50% {
+		transform: rotate(1deg);
+	}
+	100% {
+		transform: rotate(-1deg);
+	}
+}

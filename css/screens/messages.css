@@ -35,6 +35,8 @@
     display: flex;
     justify-content: space-between;
     height: 70px;
+    text-decoration: none;
+    color: black;
 }
 .msg-list__item-cover {
     height: 52px;

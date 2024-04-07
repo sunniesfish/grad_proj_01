@@ -7,12 +7,9 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/cover.css";
+@import "components/animations.css";
+@import "components/no-mobile.css";
 
-/* @import "components/user-component.css";
-@import "components/badge.css";
-@import "components/icon-row.css";
-@import "components/alt-screen-header.css";
-@import "components/no-mobile.css"; */
 
 /*Screens*/
 @import "screens/messages.css";
@@ -20,10 +17,8 @@
 @import "screens/calls.css";
 @import "screens/main.css";
 @import "screens/settings.css";
-
-/* @import "screens/login.css";
-@import "screens/chat.css";
-@import "screens/chat-room.css"; */
+@import "screens/login.css";
+@import "screens/chat-room.css";
 
 html {
     height: 100vh;
